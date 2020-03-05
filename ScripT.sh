@@ -17,6 +17,8 @@ do
 		img_sem_ext=$(ls $imagen | awk -F. '{print$1}')
 		convert $imagen  $img_sem_ext.png
 
+	echo "Finalizado"
+
 done
 
 
