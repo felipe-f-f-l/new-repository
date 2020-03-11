@@ -17,3 +17,4 @@ do
 		convert $imagen  $img_sem_ext.png
 
 done
+/.project
